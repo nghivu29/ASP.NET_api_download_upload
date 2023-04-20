@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Learning\SGU\Nam4ki2\ANMMT\USB\server\api\MyApi\MyApi\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2023-03-31T18:25:38.3397698Z;True|2023-04-01T00:52:15.3264315+07:00;True|2023-03-31T15:52:08.7991439+07:00;True|2023-03-31T15:29:51.3749139+07:00;True|2023-03-31T15:24:24.8706130+07:00;True|2023-03-31T14:33:00.8477593+07:00;True|2023-03-29T23:12:15.9531678+07:00;True|2023-03-29T22:31:46.2584706+07:00;True|2023-03-29T22:23:52.6322393+07:00;True|2023-03-29T22:05:37.4391399+07:00;True|2023-03-29T14:19:02.6264037+07:00;True|2023-03-27T22:09:09.0686145+07:00;</History>
+  </PropertyGroup>
+</Project>
